@@ -1,6 +1,6 @@
 # number-guessing-game
-Number guessing game in Python
 
+<p><strong><u>Task:</u></strong> <i>Below are the steps:</i></p>
 <ul>
 <li>Build a Number guessing game, in which the <strong>user selects a range.</strong></li>
 <li>Let’s say User selected a range, i.e., from<strong> A </strong>to <strong>B</strong>, where <strong>A</strong> and <strong>B </strong>belong to Integer.</li>
