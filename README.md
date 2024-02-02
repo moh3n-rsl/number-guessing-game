@@ -1,4 +1,4 @@
-# number-guessing-game
+# Number guessing game
 
 <p><strong><u>Task:</u></strong> <i>Below are the steps:</i></p>
 <ul>
